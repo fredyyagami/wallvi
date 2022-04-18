@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272735099276",
+    "project_id": "wallvi",
+    "storage_bucket": "wallvi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272735099276:android:95e0f2e8157e06fae41ea9",
+        "android_client_info": {
+          "package_name": "com.arandevs.wallvi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272735099276-aonst5g79nbqi7m8fao67sui4u2i1qvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkOln8TkiW9thBBqLZJc94VT20YYizoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272735099276-aonst5g79nbqi7m8fao67sui4u2i1qvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

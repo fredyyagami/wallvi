@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app info-->
+    <string name="app_name">WallVi</string>
+    <string name="app_copyright">Copyright &#169; 2022 Arandevs \n Todos los derechos reservados</string>
+
+    <!--bottom navigation menu name-->
+    <string name="title_nav_recent">Wallpapers</string>
+    <string name="title_nav_category">Categorias</string>
+    <string name="title_nav_favorite">Favoritos</string>
+
+    <!--network & error message-->
+    <string name="whops">Whoops!</string>
+    <string name="failed_title_text">Whoops!</string>
+    <string name="failed_text">Hay un problema con su red o el servidor está caído, inténtelo de nuevo más tarde.</string>
+    <string name="no_category_found">No parece haber una categoría disponible en este momento.</string>
+    <string name="no_search_found">¡Búsqueda no encontrada! Si desea continuar con la búsqueda, intente ingresar otra palabra clave.</string>
+    <string name="msg_no_item">No parece haber ningún contenido disponible en este momento.</string>
+    <string name="msg_search_input">¡Por favor inserte una palabra clave!</string>
+    <string name="btn_retry">Reintentar</string>
+    <string name="dialog_option_ok">OK</string>
+
+    <!--favorite-->
+    <string name="msg_favorite_added">Agregado a favoritos</string>
+    <string name="msg_favorite_removed">Eliminado de favoritos</string>
+    <string name="no_favorite_found">Su lista de favoritos está vacía porque no ha agregaqdo ningún fondo de pantalla en el menú de favoritos.</string>
+
+    <!--share-->
+    <string name="share_text">Me gustaría compartir esta aplicación. Aquí puedes descargar esta aplicación en Google Play</string>
+
+    <!--toolbar main menu-->
+    <string name="menu_more">Más</string>
+    <string name="menu_overflow_settings">Configuración</string>
+    <string name="menu_overflow_rate_us">Califícanos</string>
+    <string name="menu_overflow_more_apps">Más apps</string>
+    <string name="menu_overflow_share">Compartir</string>
+    <string name="menu_overflow_about">Acerca de</string>
+
+    <!--search-->
+    <string name="title_menu_search">Buscar</string>
+    <string name="search_hint">Buscar&#8230;</string>
+
+    <!--set wallpaper option-->
+    <string name="title_set_action_info">Compartir</string>
+    <string name="title_set_action_save">Guardar</string>
+    <string name="title_set_action_apply">Aplicar</string>
+    <string name="title_set_action_favorite">Favorito</string>
+    <string name="dialog_set_title">Establecer como : </string>
+    <string name="set_home_screen">Pantalla de Inicio</string>
+    <string name="set_lock_screen">Pantalla de Bloqueo</string>
+    <string name="set_both">Pantalla de Inicio y Bloqueo</string>
+    <string name="set_crop">Recortar</string>
+    <string name="set_with">Set With&#8230;</string>
+    <string name="option_yes">Si</string>
+    <string name="dialog_option_cancel">Cancelar</string>
+    <string name="msg_loading_wallpaper">Cargando Wallpaper&#8230;</string>
+    <string name="msg_preparing_wallpaper">Preparando wallpaper&#8230;</string>
+    <string name="msg_apply_wallpaper">Aplicando wallpaper&#8230;</string>
+    <string name="btn_set_wallpaper">ESTABLECER WALLPAPER</string>
+    <string name="msg_title_success">Felicidades</string>
+    <string name="msg_success_applied">Wallpaper aplicado con éxito</string>
+    <string name="msg_success_saved">Wallpaper guardado con éxito</string>
+    <string name="btn_done">Hecho</string>
+    <string name="snack_bar_failed">Wallpaper no establecido.</string>
+    <string name="snack_bar_error">¡Ha fallado! Por favor, inténtelo de nuevo más tarde.</string>
+    <string name="snack_bar_saving">Guardando wallpaper&#8230;</string>
+
+    <!--settings and others-->
+    <string name="txt_title_settings">Configuración</string>
+    <string name="title_setting_theme">Modo Oscuro</string>
+    <string name="sub_title_setting_theme">Mejor vista y ahorro de energía.</string>
+    <string name="msg_please_wait">Espere por favor&#8230;</string>
+    <string name="content_description">TODO</string>
+    <string name="title_setting_notification">Notificaciones</string>
+    <string name="sub_title_setting_notification">Administrar la configuración de notificaciones push</string>
+    <string name="title_setting_clear_cache">Borrar Cache</string>
+    <string name="sub_setting_clear_cache_start">Liberar</string>
+    <string name="sub_setting_clear_cache_end">del espacio</string>
+    <string name="title_setting_copyright">Copyright Information</string>
+    <string name="sub_title_setting_copyright">Todos los fondos de pantalla que están disponibles en la aplicación son gratuitos y su crédito va a sus respectivos propietarios. Estos fondos de pantalla tienen la licencia Creative Commons Zero (CC0). Póngase en contacto con nosotros si encuentra algún fondo de pantalla que viole alguna regla y lo eliminaremos.</string>
+    <string name="title_setting_privacy">Política de privacidad</string>
+    <string name="title_setting_rate">Califícanos</string>
+    <string name="title_setting_more_apps">Más aplicaciones</string>
+    <string name="title_setting_path">Guardar Wallpaper a</string>
+    <string name="title_setting_about">Acerca de</string>
+    <string name="msg_about_version">Version</string>
+    <string name="title_menu_browser">Abrir en navegador</string>
+    <string name="title_setting_display_wallpaper">Display Wallpaper</string>
+    <string name="msg_clearing_cache">Borrando cache</string>
+    <string name="msg_clear_cache">¿Seguro que quieres borrar el caché?</string>
+    <string name="msg_cache_cleared">El caché ha sido borrado</string>
+    <string name="option_menu_wallpaper_2_columns">2 Columnas</string>
+    <string name="option_menu_wallpaper_3_columns">3 Columnas</string>
+
+    <!--exit message-->
+    <string name="press_again_to_exit">Presiona de nuevo para salir</string>
+
+    <!--wallpaper and category aspect ratio-->
+    <string name="wallpaper_image_ratio_rectangle">H,1:1.5</string>
+    <string name="wallpaper_image_ratio_square">H,1:1</string>
+    <string name="category_image_ratio">H,2:1</string>
+
+</resources>
